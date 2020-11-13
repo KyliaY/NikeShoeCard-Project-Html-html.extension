@@ -4,7 +4,7 @@
       <img id="nikeLogo" src="https://miro.medium.com/max/900/0*9hcinRdaHicrNpNE.jpg" alt="">
       <span id="nike" class="subhead">Nike</span>
     </header>
-    <img id="shoe" src="https://dks.scene7.com/is/image/GolfGalaxy/19NIKMRMX270BLKPNMNS_Black_White_Solar_Red?qlt=70&wid=600&fmt=pjpeg" alt="">
+    <img id="shoe" src="https://dks.scene7.com/is/image/GolfGalaxy/19NIKMRMX270BLKPNMNS_Black_White_Solar_Red?qlt=70&wid=600&fmt=pjpeg">
     <section>
       <div id="description">
         <span id="retail" class="subhead">Retail</span> <span id="time" class="faded">2d ago</span>
@@ -26,4 +26,3 @@
     </footer>
   </article>
 </div>
-
